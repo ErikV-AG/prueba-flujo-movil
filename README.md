@@ -2,7 +2,7 @@
 
 ## Contenido
 
-- `index.html`: página autocontenida con la tarjeta "Estado del sistema", que muestra la hora de Ciudad de México y se actualiza cada segundo. Ábrela directamente en el navegador.
+- `index.html`: página autocontenida con la tarjeta "Estado del sistema", que muestra la hora de Ciudad de México, se actualiza cada segundo e incluye un botón para copiar la hora al portapapeles. Ábrela directamente en el navegador.
 - `datos.csv`: datos de ejemplo con las columnas `curso`, `alumnos` y `avance_pct`.
 - `resumen.py`: script que lee `datos.csv` e imprime el total de alumnos y el avance promedio por curso.
 
